@@ -1,0 +1,1 @@
+I am simulating a business solution through design thinking for the Pet Nanny project. The aim is to ensure the secure and professional care of your pets, and I will be testing it using the TikTok algorithm
